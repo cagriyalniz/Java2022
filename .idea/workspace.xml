@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="day 1 homeworks">
-      <change afterPath="$PROJECT_DIR$/src/homeWorks/MiniProjectPrimeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorks/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorks/StringsPartOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorks/StringsPartTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorks/Vowels.java" afterDir="false" />
+    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="week 2 homeworks">
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/MetothWithParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/VariableArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/customerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindNumber">
+  <component name="RunManager" selected="Application.main">
     <configuration name="FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorks.FindNumber" />
       <module name="Java2022" />
@@ -85,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsPartTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.StringsPartTwo" />
-      <module name="Java2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWorks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorks.Vowels" />
       <module name="Java2022" />
@@ -111,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.main" />
+      <module name="Java2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkWeek2.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.FindNumber" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.Vowels" />
         <item itemvalue="Application.MiniProjectPrimeNum" />
-        <item itemvalue="Application.StringsPartTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663505386054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 1 homeworks">
+      <created>1663617302133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663617302140</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week 2 homeworks">
+      <created>1664047178165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664047178165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 1 homeworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1 homeworks" />
+    <MESSAGE value="week 2 homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 homeworks" />
   </component>
 </project>
