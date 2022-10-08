@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="week 2 homeworks">
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/AskerKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/KrediUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
+    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="week 2 homeworks/inheritance ornegi">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/BaseCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/CreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/ICreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/MilitaryCreditManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/TeacherCreditManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,26 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.homeWorkWeek2.classes.inheritanceDemo.Main">
-    <configuration name="FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.FindNumber" />
-      <module name="Java2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWorks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.homeWorkWeek3.first.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.getSet.Main" />
       <module name="Java2022" />
@@ -99,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homeWorkWeek3.first.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.first.Main" />
+      <module name="Java2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkWeek3.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.main" />
       <module name="Java2022" />
@@ -114,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWorkWeek3.first.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.inheritanceDemo.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.constructer.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.FindNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664134895893</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="week 2 homeworks/inheritance ornegi">
+      <created>1665231187800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665231187800</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +197,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 1 homeworks" />
     <MESSAGE value="week 2 homeworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 homeworks" />
+    <MESSAGE value="week 2 homeworks/inheritance ornegi" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 homeworks/inheritance ornegi" />
   </component>
 </project>
