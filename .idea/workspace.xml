@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="week 2 homeworks">
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/fieldAttiribute/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/fieldAttiribute/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/fieldAttiribute/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/getSet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/getSet/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/reCapDemo1/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/reCapDemo1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/AskerKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek2/classes/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homeWorkWeek2.classes.constructer.Main">
+  <component name="RunManager" selected="Application.homeWorkWeek2.classes.inheritanceDemo.Main">
     <configuration name="FindNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorks.FindNumber" />
       <module name="Java2022" />
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.PerfectNumber" />
+    <configuration name="homeWorkWeek2.classes.constructer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.constructer.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.*" />
+          <option name="PATTERN" value="homeWorkWeek2.classes.constructer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorkWeek2.classes.constructer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.constructer.Main" />
+    <configuration name="homeWorkWeek2.classes.inheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.inheritanceDemo.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkWeek2.classes.constructer.*" />
+          <option name="PATTERN" value="homeWorkWeek2.classes.inheritanceDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWorkWeek2.classes.inheritanceDemo.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.constructer.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.FindNumber" />
-        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664049034912</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week 2 homeworks">
+      <created>1664134895893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664134895893</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
