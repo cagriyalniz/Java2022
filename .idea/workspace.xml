@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="week 2 homeworks/inheritance ornegi">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/BaseCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/CreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/ICreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/MilitaryCreditManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/first/TeacherCreditManager.java" afterDir="false" />
+    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="interface, abstrac class, extends...">
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/BaseLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/ConsolLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/DataBaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/polimorfizm/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.homeWorkWeek3.first.Main">
+}</component>
+  <component name="RunManager" selected="Application.homeWorkWeek3.two.polimorfizm.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.getSet.Main" />
       <module name="Java2022" />
@@ -106,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.main" />
+    <configuration name="homeWorkWeek3.two.polimorfizm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.two.polimorfizm.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkWeek2.classes.*" />
+          <option name="PATTERN" value="homeWorkWeek3.two.polimorfizm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWorkWeek3.two.polimorfizm.Main" />
         <item itemvalue="Application.homeWorkWeek3.first.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.inheritanceDemo.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.constructer.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665231187800</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="interface, abstrac class, extends...">
+      <created>1665237322111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665237322111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +201,7 @@
     <MESSAGE value="day 1 homeworks" />
     <MESSAGE value="week 2 homeworks" />
     <MESSAGE value="week 2 homeworks/inheritance ornegi" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 homeworks/inheritance ornegi" />
+    <MESSAGE value="interface, abstrac class, extends..." />
+    <option name="LAST_COMMIT_MESSAGE" value="interface, abstrac class, extends..." />
   </component>
 </project>
