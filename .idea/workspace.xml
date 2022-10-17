@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="interface ornegi">
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceEx/CustomerManager.java" afterDir="false" />
+    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="poimorfizim with interface">
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/innerClassAndStatic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/innerClassAndStatic/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/innerClassAndStatic/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/innerClassAndStatic/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceDemo/IEatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceDemo/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceDemo/OutSourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceDemo/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceEx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/interfaceEx/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homeWorkWeek3.two.interfaceEx.Main">
+  <component name="RunManager" selected="Application.homeWorkWeek3.two.innerClassAndStatic.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.two.abstractClass.Main" />
       <module name="Java2022" />
@@ -64,6 +71,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeWorkWeek3.two.abstractClass.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWorkWeek3.two.innerClassAndStatic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.two.innerClassAndStatic.Main" />
+      <module name="Java2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkWeek3.two.innerClassAndStatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorkWeek3.two.polimorfizm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.two.polimorfizm.Main" />
-      <module name="Java2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWorkWeek3.two.polimorfizm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWorkWeek3.two.innerClassAndStatic.Main" />
         <item itemvalue="Application.homeWorkWeek3.two.interfaceEx.Main" />
         <item itemvalue="Application.homeWorkWeek3.two.abstractClass.demo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.homeWorkWeek3.two.override.Main" />
-        <item itemvalue="Application.homeWorkWeek3.two.polimorfizm.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666000188461</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="poimorfizim with interface">
+      <created>1666000669885</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666000669885</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +251,7 @@
     <MESSAGE value="abstract class ve fonksiyon" />
     <MESSAGE value="abstract demo ve strategy pattern" />
     <MESSAGE value="interface ornegi" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface ornegi" />
+    <MESSAGE value="poimorfizim with interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="poimorfizim with interface" />
   </component>
 </project>
