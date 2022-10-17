@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="polimorfizm">
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/override/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/override/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/override/OgrenciKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/override/OgretmenKrediManager.java" afterDir="false" />
+    <list default="true" id="7bd0d222-5baf-4ead-8d9a-9e549e002c81" name="Changes" comment="override edilebilen ve edilemeyen fonksiyonlar">
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/abstractClass/GameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/abstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/abstractClass/ManCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWorkWeek3/two/abstractClass/WomanCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homeWorkWeek3.two.override.Main">
-    <configuration name="homeWorkWeek2.classes.constructer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkWeek2.classes.constructer.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkWeek3.two.abstractClass.Main" />
       <module name="Java2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkWeek2.classes.constructer.*" />
+          <option name="PATTERN" value="homeWorkWeek3.two.abstractClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.homeWorkWeek3.two.override.Main" />
         <item itemvalue="Application.homeWorkWeek3.two.polimorfizm.Main" />
         <item itemvalue="Application.homeWorkWeek3.first.Main" />
         <item itemvalue="Application.homeWorkWeek2.classes.inheritanceDemo.Main" />
-        <item itemvalue="Application.homeWorkWeek2.classes.constructer.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665828306292</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="override edilebilen ve edilemeyen fonksiyonlar">
+      <created>1665996449422</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665996449422</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +214,7 @@
     <MESSAGE value="week 2 homeworks/inheritance ornegi" />
     <MESSAGE value="interface, abstrac class, extends..." />
     <MESSAGE value="polimorfizm" />
-    <option name="LAST_COMMIT_MESSAGE" value="polimorfizm" />
+    <MESSAGE value="override edilebilen ve edilemeyen fonksiyonlar" />
+    <option name="LAST_COMMIT_MESSAGE" value="override edilebilen ve edilemeyen fonksiyonlar" />
   </component>
 </project>
